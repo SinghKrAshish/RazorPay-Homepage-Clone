@@ -1,5 +1,5 @@
 # RazorPay-Homepage-Clone
-Built using HTML and CSS to copy the homepage to the payment gateway RazorPay
+Built using HTML and CSS to copy the homepage to the payment gateway RazorPay [https://razorpay.com/]
 
 # Technologies Used
 HTML, CSS, Tailwind CSS, Vite Node
